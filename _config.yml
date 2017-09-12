@@ -95,8 +95,8 @@ gitment:
     owner: yuandunlong
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: e463665aa2d4f75a1254
+        client_secret: 3cb96451d3dcd9e44f98441db1869093025bad74
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
